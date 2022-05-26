@@ -2,7 +2,7 @@
 Calculates the number of occurrences of elements that occur more than once in a list.
 
 
- ![image](https://user-images.githubusercontent.com/71414017/170557380-b883598a-faf9-42e1-8e8f-adf9e87efb8a.png)
+![image](https://user-images.githubusercontent.com/71414017/170557478-b4e3735d-b77c-459d-8a77-aeaa01dc4a53.png)
 
 
 
