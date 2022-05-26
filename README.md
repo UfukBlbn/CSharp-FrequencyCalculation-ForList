@@ -3,7 +3,8 @@ Calculates the number of occurrences of elements that occur more than once in a 
 
 
 ***Input of algorithm***
-![image](https://user-images.githubusercontent.com/71414017/170557185-2032fd39-ae32-4462-b206-3ec0878586fe.png)
+ ![image](https://user-images.githubusercontent.com/71414017/170557380-b883598a-faf9-42e1-8e8f-adf9e87efb8a.png)
+
 
 
 ***Output of algorithm***
